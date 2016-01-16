@@ -10,9 +10,9 @@ var quotes = [
 '"Pan jest łobuzem, śląskim łobuzem!"',
 '"Precz z płatnym seksem!"',
 '"Robimy dla Polski dużo, bardzo dużo... aż trudno wymienić"',
-'"Żadne krzyki i płacze nas nie przekonają, że białe jest białe, a czarne jest czarne'",
-'"Warto być Polakiem, bo się Polakiem urodziło'", 
-'"Ruski agencie, załatwimy cię!'"
+'"Żadne krzyki i płacze nas nie przekonają, że białe jest białe, a czarne jest czarne"',
+'"Warto być Polakiem, bo się Polakiem urodziło"', 
+'"Ruski agencie, załatwimy cię!"'
 ];
 
 var elements = document.getElementsByTagName('*');
