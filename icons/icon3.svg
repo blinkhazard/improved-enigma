@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="icon3.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.8284271"
+     inkscape:cx="198.21347"
+     inkscape:cy="528.87162"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1680"
+     inkscape:window-height="952"
+     inkscape:window-x="0"
+     inkscape:window-y="28"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#7f0000;fill-opacity:0.50196081;stroke-width:16;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect3856"
+       width="128"
+       height="128"
+       x="108.57143"
+       y="448.64789"
+       inkscape:export-filename="/home/michal/tests/improved-enigma/icon2.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <g
+       id="g4354">
+      <path
+         transform="matrix(0.22993799,-0.00645027,0.00564122,0.2629148,38.728033,468.06157)"
+         inkscape:transform-center-y="-39.799191"
+         inkscape:transform-center-x="-0.32456552"
+         d="M 772.85715,360.21932 573.34777,356.1204 373.83841,352.02147 477.14287,181.29075 580.44733,10.560029 676.65224,185.38968 z"
+         inkscape:randomized="0"
+         inkscape:rounded="0"
+         inkscape:flatsided="false"
+         sodipodi:arg2="1.5913385"
+         sodipodi:arg1="0.54414091"
+         sodipodi:r2="115.2111"
+         sodipodi:r1="230.4222"
+         sodipodi:cy="240.93361"
+         sodipodi:cx="575.71429"
+         sodipodi:sides="3"
+         id="path3086"
+         style="fill:#007f80;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:18.4567852;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         sodipodi:type="star" />
+      <path
+         id="path2987"
+         d="M 176.34375 475.46875 L 172.1875 524.40625 L 164.6875 483.25 L 164.53125 483.625 L 171.3125 524.75 L 158.59375 495.59375 L 158.34375 496.125 L 170.28125 524.84375 L 154.3125 504.25 L 153.9375 505 L 169.375 525.96875 L 150.96875 511 L 150.78125 511.3125 L 169.0625 526.5 L 148.125 516.71875 L 147.84375 517.28125 L 168.5625 527.40625 L 145.125 522.78125 L 145 522.96875 L 168.21875 527.75 L 141.84375 529.40625 L 141.53125 530 L 168.4375 528.84375 L 137.40625 538.3125 L 137.25 538.625 L 168.46875 529.46875 L 130.3125 552.625 L 130.09375 553.09375 L 168.5625 531.03125 L 141.96875 557.0625 L 142.3125 557.0625 L 169.59375 531.03125 L 153.46875 557 L 153.96875 557 L 170.21875 531.71875 L 162.0625 556.96875 L 162.71875 556.96875 L 171.34375 532.0625 L 169.59375 556.9375 L 169.875 556.9375 L 171.8125 532.15625 L 176.15625 556.90625 L 176.84375 556.90625 L 173 531.875 L 184.0625 556.875 L 184.65625 556.875 L 174.0625 531.65625 L 193.375 556.84375 L 193.96875 556.84375 L 174.96875 531.0625 L 206.96875 556.78125 L 207.28125 556.78125 L 175.28125 530.375 L 214.375 548.46875 L 214.21875 548.15625 L 175.75 529.5625 L 207.625 535.53125 L 207.375 535.0625 L 176.15625 528.65625 L 203.40625 527.4375 L 203.28125 527.15625 L 175.90625 528.09375 L 199.875 520.6875 L 199.5625 520.09375 L 175.5625 526.96875 L 196.71875 514.59375 L 196.5 514.1875 L 174.96875 526.3125 L 193.375 508.15625 L 193.09375 507.625 L 174.71875 525.09375 L 189.5 500.75 L 189.21875 500.25 L 173.3125 525.375 L 184.40625 490.96875 L 184.3125 490.75 L 173 524.9375 L 176.4375 475.65625 L 176.34375 475.46875 z "
+         style="opacity:0.9;fill:#000000;fill-opacity:1;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4" />
+    </g>
+  </g>
+</svg>
