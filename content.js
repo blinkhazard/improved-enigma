@@ -18,7 +18,7 @@ var quotes = [
 ];
 
 var elements = document.getElementsByTagName('*');
-var pattern = /(J.|Jar\S+) (Kaczyński)/g; 
+var pattern = /(J.|Jar\S+) (Kaczyński)/; 
 var match; 
 
 for (var i = 0; i < elements.length; i++) {
