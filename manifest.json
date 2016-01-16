@@ -1,7 +1,7 @@
 {
 "manifest_version": 2,
     "name": "Snake people",
-    "description": "Improve politician's name by adding their genuine quotes from a randomly selected list",
+    "description": "Improve politician's name by adding to it their genuine quotes from a randomly selected list",
     "version": "0.1",
     "content_scripts": [
         {
