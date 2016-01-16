@@ -16,6 +16,8 @@ var quotes = [
 ];
 
 var elements = document.getElementsByTagName('*');
+var pattern = /(J\S+) (Kaczyński)/g; 
+var match; 
 
 for (var i = 0; i < elements.length; i++) {
     var element = elements[i];
@@ -27,9 +29,10 @@ for (var i = 0; i < elements.length; i++) {
             var text = node.nodeValue;
             var repl = text; 
 
-            repl = text.replace(/Kaczyński/g, 
-              function(){
-                return quotes[Math.floor(Math.random()*quotes.length)] + " Kaczyński";});
+            while(match = pattern.exec(repl)) { 
+              repl = repl.replace(pattern, 
+              match[1] + " " + quotes[Math.floor(Math.random()*quotes.length)] + " " + match[2]); 
+            }             
 
             if (repl !== text) {
                 element.replaceChild(document.createTextNode(repl), node);
