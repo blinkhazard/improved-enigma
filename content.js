@@ -12,11 +12,14 @@ var quotes = [
 '"Robimy dla Polski dużo, bardzo dużo... aż trudno wymienić"',
 '"Żadne krzyki i płacze nas nie przekonają, że białe jest białe, a czarne jest czarne"',
 '"Warto być Polakiem, bo się Polakiem urodziło"', 
-'"Ruski agencie, załatwimy cię!"'
+'"Ruski agencie, załatwimy cię!"',
+'"My jesteśmy tu gdzie wtedy. Oni tam gdzie stało ZOMO"', 
+'"Przyjrzyjcie się mi, bo patrzycie na Łukaszenkę"', 
+'"Najgorszy sort Polaków"', 
 ];
 
 var elements = document.getElementsByTagName('*');
-var pattern = /(J\S+) (Kaczyński)/g; 
+var pattern = /(J.|Jar\S+) (Kaczyński)/g; 
 var match; 
 
 for (var i = 0; i < elements.length; i++) {
