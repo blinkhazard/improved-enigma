@@ -2,7 +2,7 @@ This chrome extension is helping Jarosław Kaczyński by adding his genuine quot
 
 ### Example
 
-Jarosław Kaczyński --> Jarosław "Ale czy marihuana jest z konopi? Chyba nie" Kaczyński  
+Jarosław&nbsp;Kaczyński --> Jarosław "Ale czy marihuana jest z konopi? Chyba nie" Kaczyński  
 
 ### Howto
 
