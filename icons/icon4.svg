@@ -24,9 +24,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.8"
-     inkscape:cx="228.64048"
-     inkscape:cy="490.81401"
+     inkscape:zoom="1.4"
+     inkscape:cx="-11.503561"
+     inkscape:cy="432.07336"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -49,7 +49,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -90,7 +90,7 @@
        inkscape:export-ydpi="90" />
     <g
        id="g3873"
-       transform="translate(-4.2895889,0)"
+       transform="matrix(0.98657302,-0.17622929,0.16332079,1.0645495,-88.254074,-6.955884)"
        inkscape:export-filename="/home/michal/tests/improved-enigma/icon4.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90">
