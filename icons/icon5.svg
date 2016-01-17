@@ -24,9 +24,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2"
-     inkscape:cx="136.13442"
-     inkscape:cy="645.73555"
+     inkscape:zoom="2.8284271"
+     inkscape:cx="201.80331"
+     inkscape:cy="650.93794"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -52,142 +52,183 @@
      inkscape:groupmode="layer"
      id="layer1">
     <rect
-       style="fill:#7f0000;fill-opacity:0.50196078;stroke-width:16;stroke-miterlimit:4;stroke-dasharray:none"
-       id="rect3856"
-       width="16"
+       style="opacity:0.9;fill:#7f0000;fill-opacity:0.50196078;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect2986"
+       width="6"
        height="128"
-       x="290.48843"
+       x="194.48843"
        y="307.09384"
-       inkscape:export-filename="/home/michal/tests/improved-enigma/icon5.png"
+       inkscape:export-filename="/home/michal/tests/improved-enigma/icons/icon5.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
-    <g
-       id="g4005"
-       transform="translate(126.77414,-40.911182)"
-       inkscape:export-filename="/home/michal/tests/improved-enigma/icon5.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90">
-      <rect
-         y="348.00504"
-         x="67.714287"
-         height="128"
-         width="6"
-         id="rect2986"
-         style="opacity:0.9;fill:#7f0000;fill-opacity:0.50196078;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none" />
-      <rect
-         y="348.00504"
-         x="73.714287"
-         height="128"
-         width="6"
-         id="rect2986-9"
-         style="opacity:0.9;fill:#000000;fill-opacity:1;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none" />
-      <rect
-         y="348.00504"
-         x="79.714287"
-         height="128"
-         width="6"
-         id="rect2986-0"
-         style="opacity:0.9;fill:#007f80;fill-opacity:1;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none" />
-      <rect
-         y="348.00504"
-         x="91.714287"
-         height="128"
-         width="6"
-         id="rect2986-8"
-         style="opacity:0.9;fill:#7f0000;fill-opacity:0.50196078;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none" />
-      <rect
-         y="348.00504"
-         x="97.714287"
-         height="128"
-         width="6"
-         id="rect2986-6"
-         style="opacity:0.9;fill:#7f0000;fill-opacity:0.50196078;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none" />
-      <rect
-         y="348.00504"
-         x="85.714287"
-         height="128"
-         width="6"
-         id="rect2986-4"
-         style="opacity:0.9;fill:#7f0000;fill-opacity:0.50196078;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none" />
-      <rect
-         y="348.00504"
-         x="103.71429"
-         height="128"
-         width="6"
-         id="rect2986-0-4"
-         style="opacity:0.9;fill:#007f80;fill-opacity:1;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none" />
-      <rect
-         y="348.00504"
-         x="109.71429"
-         height="128"
-         width="6"
-         id="rect2986-0-7"
-         style="opacity:0.9;fill:#007f80;fill-opacity:1;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none" />
-      <rect
-         y="348.00504"
-         x="115.71429"
-         height="128"
-         width="6"
-         id="rect2986-6-1"
-         style="opacity:0.9;fill:#7f0000;fill-opacity:0.50196078;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none" />
-      <rect
-         y="348.00504"
-         x="121.71429"
-         height="128"
-         width="6"
-         id="rect2986-6-9"
-         style="opacity:0.9;fill:#7f0000;fill-opacity:0.50196078;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none" />
-      <rect
-         y="348.00504"
-         x="127.71429"
-         height="128"
-         width="6"
-         id="rect2986-0-7-9"
-         style="opacity:0.9;fill:#007f80;fill-opacity:1;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none" />
-      <rect
-         y="348.00504"
-         x="133.71429"
-         height="128"
-         width="6"
-         id="rect2986-6-9-3"
-         style="opacity:0.9;fill:#7f0000;fill-opacity:0.50196078;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none" />
-      <rect
-         y="348.00504"
-         x="139.71429"
-         height="128"
-         width="6"
-         id="rect2986-0-7-9-2"
-         style="opacity:0.9;fill:#007f80;fill-opacity:1;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none" />
-      <rect
-         y="348.00504"
-         x="145.71429"
-         height="128"
-         width="6"
-         id="rect2986-6-9-3-0"
-         style="opacity:0.9;fill:#7f0000;fill-opacity:0.50196078;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none" />
-      <rect
-         y="348.00504"
-         x="151.71429"
-         height="128"
-         width="6"
-         id="rect2986-6-9-3-09"
-         style="opacity:0.9;fill:#7f0000;fill-opacity:0.50196078;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none" />
-      <rect
-         y="348.00504"
-         x="157.71429"
-         height="128"
-         width="6"
-         id="rect2986-0-7-9-2-1"
-         style="opacity:0.9;fill:#007f80;fill-opacity:1;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none" />
-    </g>
     <rect
-       style="fill:#7f0000;fill-opacity:0.50196078;stroke-width:16;stroke-miterlimit:4;stroke-dasharray:none"
-       id="rect3856-0"
+       style="opacity:0.9;fill:#000000;fill-opacity:1;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect2986-9"
+       width="6"
+       height="128"
+       x="200.48843"
+       y="307.09384"
+       inkscape:export-filename="/home/michal/tests/improved-enigma/icons/icon5.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:0.9;fill:#007f80;fill-opacity:1;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect2986-0"
+       width="6"
+       height="128"
+       x="206.48843"
+       y="307.09384"
+       inkscape:export-filename="/home/michal/tests/improved-enigma/icons/icon5.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:0.9;fill:#7f0000;fill-opacity:0.50196078;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect2986-8"
+       width="6"
+       height="128"
+       x="218.48843"
+       y="307.09384"
+       inkscape:export-filename="/home/michal/tests/improved-enigma/icons/icon5.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:0.9;fill:#7f0000;fill-opacity:0.50196078;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect2986-6"
+       width="6"
+       height="128"
+       x="224.48843"
+       y="307.09384"
+       inkscape:export-filename="/home/michal/tests/improved-enigma/icons/icon5.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:0.9;fill:#7f0000;fill-opacity:0.50196078;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect2986-4"
+       width="6"
+       height="128"
+       x="212.48843"
+       y="307.09384"
+       inkscape:export-filename="/home/michal/tests/improved-enigma/icons/icon5.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:0.9;fill:#007f80;fill-opacity:1;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect2986-0-4"
+       width="6"
+       height="128"
+       x="230.48843"
+       y="307.09384"
+       inkscape:export-filename="/home/michal/tests/improved-enigma/icons/icon5.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:0.9;fill:#007f80;fill-opacity:1;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect2986-0-7"
+       width="6"
+       height="128"
+       x="236.48843"
+       y="307.09384"
+       inkscape:export-filename="/home/michal/tests/improved-enigma/icons/icon5.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:0.9;fill:#7f0000;fill-opacity:0.50196078;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect2986-6-1"
+       width="6"
+       height="128"
+       x="242.48843"
+       y="307.09384"
+       inkscape:export-filename="/home/michal/tests/improved-enigma/icons/icon5.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:0.9;fill:#7f0000;fill-opacity:0.50196078;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect2986-6-9"
+       width="6"
+       height="128"
+       x="248.48843"
+       y="307.09384"
+       inkscape:export-filename="/home/michal/tests/improved-enigma/icons/icon5.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:0.9;fill:#007f80;fill-opacity:1;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect2986-0-7-9"
+       width="6"
+       height="128"
+       x="254.48843"
+       y="307.09384"
+       inkscape:export-filename="/home/michal/tests/improved-enigma/icons/icon5.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:0.9;fill:#7f0000;fill-opacity:0.50196078;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect2986-6-9-3"
+       width="6"
+       height="128"
+       x="260.48843"
+       y="307.09384"
+       inkscape:export-filename="/home/michal/tests/improved-enigma/icons/icon5.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:0.9;fill:#007f80;fill-opacity:1;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect2986-0-7-9-2"
+       width="6"
+       height="128"
+       x="266.48843"
+       y="307.09384"
+       inkscape:export-filename="/home/michal/tests/improved-enigma/icons/icon5.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:0.9;fill:#7f0000;fill-opacity:0.50196078;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect2986-6-9-3-0"
+       width="6"
+       height="128"
+       x="272.48843"
+       y="307.09384"
+       inkscape:export-filename="/home/michal/tests/improved-enigma/icons/icon5.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:0.9;fill:#7f0000;fill-opacity:0.50196078;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect2986-6-9-3-09"
+       width="6"
+       height="128"
+       x="278.48843"
+       y="307.09384"
+       inkscape:export-filename="/home/michal/tests/improved-enigma/icons/icon5.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:0.9;fill:#007f80;fill-opacity:1;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect2986-0-7-9-2-1"
+       width="6"
+       height="128"
+       x="284.48843"
+       y="307.09384"
+       inkscape:export-filename="/home/michal/tests/improved-enigma/icons/icon5.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:0.9;fill:#7f0000;fill-opacity:0.50196078;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect2986-6-9-3-09-8"
        width="16"
        height="128"
        x="178.48843"
        y="307.09384"
-       inkscape:export-filename="/home/michal/tests/improved-enigma/icon5.png"
+       inkscape:export-filename="/home/michal/tests/improved-enigma/icons/icon5.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:0.9;fill:#7f0000;fill-opacity:0.50196078;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect2986-6-9-3-09-8-9"
+       width="16"
+       height="128"
+       x="290.48843"
+       y="307.09384"
+       inkscape:export-filename="/home/michal/tests/improved-enigma/icons/icon5.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
   </g>
